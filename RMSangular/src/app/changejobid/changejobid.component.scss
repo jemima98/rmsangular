@@ -1,0 +1,66 @@
+.modal-title {
+    font-size: 15px;
+}
+
+.btn-default {
+    background: lightskyblue;
+    border-radius: 7px;
+    mask-border: 1px;
+    color: black;
+    width: 7;
+    margin: 10;
+    padding: 0%;
+    height: 23px;
+    font-size: 15px;
+}
+
+.fa-exclamation-triangle {
+    font-size: 50px;
+    margin-top: 8%;
+}
+
+.label {
+    font-size: 15px;
+    margin-top: 4px;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.text-center {
+    margin-bottom: 25px;
+    padding-left: 5%;
+}
+
+.modal-body,.ml-4 {
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.btn:focus,.btn.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem transparent;
+}
+
+.modal-footer {
+    padding: 0%;
+
+.label{
+    display: inline;
+    text-align: left;
+}
+.choose{
+    text-align: right;
+}
+#divRight{
+    width: 50%;
+    float: left;
+}
+#divLeft{
+    width: 50%;
+    float: right;
+}
+.image{
+    float: right;
+}
+}

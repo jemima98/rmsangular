@@ -1,0 +1,81 @@
+.navbar-text{
+     text-align: right;
+}
+
+#container
+{
+    text-align: right;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+th{
+    font-size: 12px;
+    font-weight: bold;
+    color: #343a40;
+}
+table tr{
+    height: 20px;
+}
+tr:hover{
+    background-color: #e7ecef;
+}
+table tr td.button{
+    padding-top:6px;
+    padding-bottom: 6px;
+}
+table tr td{
+    padding-top:8px;
+    padding-bottom: 0px;
+}
+table tr th{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+td{
+    font-size: 12px;
+    color:#495057;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: underline;
+}
+.btn{
+    height:40px;
+    font-size: 20px;
+    color: white;
+    background-color:green;
+    border-color: green;
+}
+.btn:focus{
+    outline-width: 0;
+}
+.box-shadow{
+    -webkit-box-shadow: -4px -2px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px -2px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: -4px -2px 5px 0px rgba(0,0,0,0.75);
+}
+.container{
+    margin-top: 8%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+p{
+    margin-top: 5px;
+    padding-bottom: 0px;
+    margin-left: 0%;
+}
+.top{
+    margin-top: 0px;
+}
+.container .row .col-11 p{
+    margin-bottom: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+       
+
+
